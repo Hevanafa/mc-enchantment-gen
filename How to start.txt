@@ -1,0 +1,14 @@
+Start with installation:
+yarn install
+
+To see how it works offline:
+yarn start
+
+Development URL:
+http://localhost:3000
+
+Then to build:
+yarn build
+
+I've uploaded the app to:
+tinygames.000webhostapp.com/mc_enchantment_gen
